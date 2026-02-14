@@ -1,0 +1,14 @@
+/Users/xing12/Documents/C#/assignment1_OOP/bin/Debug/net10.0/assignment1_OOP
+/Users/xing12/Documents/C#/assignment1_OOP/bin/Debug/net10.0/assignment1_OOP.deps.json
+/Users/xing12/Documents/C#/assignment1_OOP/bin/Debug/net10.0/assignment1_OOP.runtimeconfig.json
+/Users/xing12/Documents/C#/assignment1_OOP/bin/Debug/net10.0/assignment1_OOP.dll
+/Users/xing12/Documents/C#/assignment1_OOP/bin/Debug/net10.0/assignment1_OOP.pdb
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.AssemblyInfoInputs.cache
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.AssemblyInfo.cs
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.csproj.CoreCompileInputs.cache
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.dll
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/refint/assignment1_OOP.dll
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.pdb
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/assignment1_OOP.genruntimeconfig.cache
+/Users/xing12/Documents/C#/assignment1_OOP/obj/Debug/net10.0/ref/assignment1_OOP.dll
