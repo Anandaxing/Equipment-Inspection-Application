@@ -12,7 +12,7 @@ This project concentrates on developing an Equipment Maintenance & Inspection Sy
 
 The idea of this project it to apply the concept of object-oriented programming (OOP) such as encapsulation, inheritance, abstract, and interface in real world scenario. By creating a maintenance and inspection system simulation, this project demonstrates how OOP can be utilized to organize complex relations between entities effectively.
 
-d. System Features are as follow:
+System Features are as follow:
   [1] View all assets
   [2] View all operators
   [3] Add asset
@@ -25,8 +25,18 @@ d. System Features are as follow:
   [10] Operate assets 
   [0] Exit
 
-e. OOP Concepts Used: 
+OOP Concepts Used: 
 - Encapsulation,
 - Inheritance,
 - Abstract,
 - Interface.
+
+How to the run program:
+1. Open the file in Visual Studio
+2. Build the project
+3. Run using Start Debugging (F5)
+
+Project Structure : 
+File       | Description
+===============================
+Program.cs | Main Program
