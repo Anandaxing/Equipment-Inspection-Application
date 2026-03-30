@@ -5,7 +5,8 @@ Group Members:
 3. 24002525 Hafizuddin Bin Harifudin BCS 
 4. 25014113 Muhammad Hasif Irfan Bin Mohd Firdaus BCS 
 5. 24005387 Rusyaidi Afiq Bin Mohamed Faraish BCS 
-6. 25002220 Zhang Rongxin BCS 
+6. 25002220 Zhang Rongxin BCS
+7. 25014127 Muhammad Aiman bin Shamsul Azlie BCS
 
 Project Description:
 This project concentrates on developing an Equipment Maintenance & Inspection System using C# programming language and object-oriented programming implementations. The program is planned to manage equipment, assign technicians, and track maintenance work.
