@@ -337,9 +337,9 @@ namespace FinalProject2
         {
             SeedData(); // when run, starting data is supplied for easy testing
             bool running = true;
+            WelcomePage();
             while (running)
             {
-                WelcomePage();
                 PrintHeader("EQUIPMENT MANAGEMENT, MAINTENANCE & INSPECTION SYSTEM");
                 Console.ForegroundColor = ConsoleColor.Red; // switch to yellow color
                 Console.WriteLine("┌─┤ IMPORTANT ├───────────────────────────────────────────┐");
