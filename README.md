@@ -1,4 +1,5 @@
-**Project Title: Equipment Management, Maintenance and Inspection System**
+Project Title: Equipment Management, Maintenance and Inspection System
+======================================================================
 Group Members: 
 1. 24005888 Fikri Bin Abdullah BCS 
 2. 24006462 Adiputra Ananda BCS 
